@@ -1,6 +1,6 @@
 # 👨🏾‍💻 Gabriel Santini
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Front-end`**
 
 Me chamo Gabriel Santini, tenho 21 anos e sou natural de Tietê, São Paulo. Concluí o curso técnico em Desenvolvimento de Sistemas na ETEC de Tietê e atualmente estou no último semestre do curso de Gestão da Tecnologia da Informação na FATEC de Tatuí. Sou entusiasta do desenvolvimento web, e utilizo principalmente TypeScript em meus projetos pessoais. Tenho interesse especial no ecossistema do Vue.js e busco sempre aprender e aplicar boas práticas de desenvolvimento. Compartilho minha trajetória e projetos através do "[LinkedIn](https://www.linkedin.com/in/santinigabriel/)", do "[Instagram](https://www.instagram.com/santinigabriel_01/)" e do meu "[Portfolio](https://portfolio-gabrielsantini.netlify.app/)".
 
